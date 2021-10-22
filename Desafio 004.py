@@ -1,14 +1,12 @@
-'''
+# Descobrir o tipo do dado informado
 
-Faça um prorama que leia algo pelo teclado e mostre na tela o seu tipo primitivo e todas as informações possíveis sobre ele.
+a=str(input('Digite algo:'))
 
-'''
-algo = str(input('Digite algo: '))
-print(type(algo))
-print('Só tem espaços?:',algo.isspace())
-print('É um número?:',algo.isnumeric())
-print('É alfabetico?:',algo.isalpha())
-print('É alfanumérico?:',algo.isalnum())
-print('Está em MAIÚSCULA?:',algo.isupper())
-print('Está em minúsculo?:',algo.islower())
-print('Está Capitalizada?:',algo.istitle())
+print('Só tem espaços?', a.isspace())
+print('É um números?', a.isnumeric())
+print('É alfabético?', a.isalpha())
+print('É alfanumerico?', a.isalnum())
+print('Está em MAIÚSCULO?', a.isupper())
+print('Está em minúsculo?', a.islower())
+print ('Está Capitalizada?', a.istitle())
+
