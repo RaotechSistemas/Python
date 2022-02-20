@@ -1,0 +1,1 @@
+arquivo = open('D:\Guaraville\Contabilidade\2021\2021-12\2021-12. Contabilidade FRM dezembro 2021.txt'.'r',encoding='utf-8')
