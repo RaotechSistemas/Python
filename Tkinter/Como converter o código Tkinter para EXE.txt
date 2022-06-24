@@ -1,0 +1,8 @@
+Instruções para converter o código Tkinter num programa executável (.exe)
+
+1. no terminal digitar:
+>>pip install pyinstaller
+>>pyinstaller --noconsole mypythonfile.py
+>>pyinstaller --noconsole --add-data "C:/Desktop/M_Cat_Loaf.jpeg;." mypythonfile.py
+
+2. O comando acima gerará um diretório inteiro, no qual haverá muitos arquivos relacionados à biblioteca, bem como o exe do aplicativo. Agora é só clicar no arquivo.exe recém criado!

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pacientes>
+    <Count>1</Count>
+     <Crn>
+     <Row>1</Row>
+     <ColFirst>0</ColFirst>
+     <ColLast>13</ColLast>
+     <Number>1</Number>
+     <Text>AGRIPINO JOAO DE SOUSA FILHO</Text>
+     <Number>13515</Number>
+     <Number>26191463474</Number>
+     <Text>MASCULINO</Text>
+     <Text>UNIMED</Text>
+     <Text>1GRI</Text>
+     <Text>JOÃO</Text>
+     <Text>MARIA</Text>
+     <Text>AGRIPINO JOSE  FILHO</Text>
+     <Text>O(A) PRÓPRIO(A)</Text>
+     <Number>26191463474</Number>
+     <Text>DELMIRO GOUVEIA</Text>
+     <Text>SN</Text>
+     <Text>PIRES FERREIRA</Text>
+     <Text>CE</Text>
+     <Text>IPU</Text>
+     <Text>CEP:62250-000</Text>
+     <Text>889-9622-9534</Text>
+     <Text></Text>
+     <Text>antoniojuscierpereirajorge@yahoocombr</Text>
+    </Crn>
+ </pacientes>   
